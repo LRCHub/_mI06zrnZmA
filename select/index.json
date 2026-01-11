@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アオミ",
+  "base_artist": "gesunokiwamiotome",
+  "createdAt": "2026-01-11T10:34:32.041468Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アオミ",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_01_アオミ_ゲスの極み乙女。.txt"
+    }
+  ]
+}
